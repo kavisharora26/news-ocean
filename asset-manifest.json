@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/news-ocean/static/css/main.31d6cfe0.css",
+    "main.js": "/news-ocean/static/js/main.303cdcda.js",
+    "static/js/787.bfa14cb9.chunk.js": "/news-ocean/static/js/787.bfa14cb9.chunk.js",
+    "static/media/loading.gif": "/news-ocean/static/media/loading.e03d3f4a1b151c8a392a.gif",
+    "index.html": "/news-ocean/index.html",
+    "main.303cdcda.js.map": "/news-ocean/static/js/main.303cdcda.js.map",
+    "787.bfa14cb9.chunk.js.map": "/news-ocean/static/js/787.bfa14cb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.303cdcda.js"
+  ]
+}
